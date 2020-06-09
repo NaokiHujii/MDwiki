@@ -11,4 +11,4 @@ test
 
 ------
 
-![GitHub](C:\Users\H5081\Documents\GitHub\MDwiki\GitHub.jpg)
+![GitHub](https://github.com/NaokiHujii/MDwiki/blob/master/GitHub.jpg)
